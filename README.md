@@ -5,6 +5,12 @@ Please keep in mind that I wrote this code for myself, so while there are many s
 **Please support me on Patreon:**
 https://www.patreon.com/ApusGameEngine
 
+**Games made with this engine:**
+
+* [Spectromancer](https://store.steampowered.com/app/22500/Spectromancer/) - Windows, iOS
+* [Astral Heroes](https://store.steampowered.com/app/488910/Astral_Heroes/) - Windows
+* [Astral Towers](https://store.steampowered.com/app/983450/Astral_Towers/) - Windows, Linux
+
 ---
 [Documentation / Tutorial](https://docs.google.com/document/d/1sl9x3FB-qI7e8DnW6dpUHevZSU8ddfsNHwwTk5ygYUs/edit?usp=sharing) - live document, feel free to comment or ask questions.
 
